@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**davidzcl/davidzcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Name is David
+[<img alt="X (@tranhuyducseven)" src="https://img.shields.io/badge/%40tranhuyducseven---?style=plastic&logo=x&logoColor=white&labelColor=black&color=black">](https://www.x.com/x/tranhuyducseven/)
+[<img alt="Linked In (@tranhuyducseven)" src="https://img.shields.io/badge/%40tranhuyducseven---?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2">](https://www.linkedin.com/in/tranhuyducseven/)
 
-Here are some ideas to get you started:
+## About Me 🦀
+- Software Engineer with 2 years of experience
+- Specializing in Rust, Go, and JavaScript
+- Proficient in Databases, Operating Systems, and DevOps
+- Enthusiast of Cryptography and Zero-Knowledge Proofs
+- Research interests include Bitcoin, Ethereum, and Solana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact 📪
+- Email: tranhuyducseven@gmail.com
+
+## Looking forward to connecting with you! 
